@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "voypost-04042022",
+    "voypost-hosting-app": "voypost-04042022"
+  },
+  "targets": {}
+}
